@@ -1,0 +1,12 @@
+﻿  Lab10.cpp
+C:\Users\Jarvis\source\repos\Lab10\Lab10.cpp(332,25): warning C4101: comma: неиспользованная локальная переменная
+      C:\Users\Jarvis\source\repos\Lab10\Lab10.cpp(332,25):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Jarvis\source\repos\Lab10\Lab10.cpp(374,35):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "AccessControlSystem<Resource>"
+          C:\Users\Jarvis\source\repos\Lab10\Lab10.cpp(267,10):
+          во время компиляции функции-члена класс шаблон "void AccessControlSystem<Resource>::loadFromFile(const std::wstring &)"
+              C:\Users\Jarvis\source\repos\Lab10\Lab10.cpp(416,31):
+              см. первую ссылку на "AccessControlSystem<Resource>::loadFromFile" в "demonstrateAccessControlSystem"
+  
+  Lab10.vcxproj -> C:\Users\Jarvis\source\repos\Lab10\x64\Debug\Lab10.exe
