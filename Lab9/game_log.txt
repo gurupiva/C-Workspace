@@ -1,0 +1,52 @@
+[Thu May  8 20:25:09 2025
+] Character Rostislav created
+[Thu May  8 20:25:16 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:29 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:30 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:31 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:33 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:38 2025
+] Error using item: Invalid item index
+[Thu May  8 20:25:52 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:54 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:55 2025
+] Rostislav attacks Skeleton for 5 damage
+[Thu May  8 20:25:55 2025
+] Obtained Bone from Skeleton
+[Thu May  8 20:26:03 2025
+] Rostislav attacks Dragon for 1 damage
+[Thu May  8 20:26:06 2025
+] Rostislav attacks Dragon for 1 damage
+[Thu May  8 20:26:07 2025
+] Rostislav attacks Dragon for 1 damage
+[Thu May  8 20:26:08 2025
+] Rostislav attacks Dragon for 1 damage
+[Thu May  8 20:26:29 2025
+] Character rostisav created
+[Thu May  8 20:26:34 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:36 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:37 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:38 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:38 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:39 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:39 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:40 2025
+] rostisav attacks Skeleton for 5 damage
+[Thu May  8 20:26:40 2025
+] Obtained Bone from Skeleton
+[Thu May  8 20:26:52 2025
+] Game saved to save.txt
