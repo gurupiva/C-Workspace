@@ -9,8 +9,6 @@
 #include <algorithm>
 
 using namespace std;
-
-// Шаблонный класс Logger
 template<typename T>
 class Logger {
     ofstream logFile;
@@ -28,7 +26,6 @@ public:
     }
 };
 
-// Класс предмета
 class Item {
     string name;
     string type;
@@ -41,7 +38,6 @@ public:
     int getValue() const { return value; }
 };
 
-// Класс инвентаря
 class Inventory {
     vector<Item> items;
 public:
@@ -74,10 +70,7 @@ public:
     const vector<Item>& getItems() const { return items; }
 };
 
-// Предварительное объявление класса Character
 class Character;
-
-// Базовый класс монстра
 class Monster {
 protected:
     string name;
@@ -105,7 +98,6 @@ public:
     virtual Item getLoot() const = 0;
 };
 
-// Класс персонажа
 class Character {
     string name;
     int health;
@@ -236,14 +228,12 @@ public:
     int getDefense() const { return defense; }
 };
 
-// Реализация метода attackTarget после определения класса Character
 void Monster::attackTarget(Character& target) {
     int damage = max(1, attack - target.getDefense());
     target.takeDamage(damage);
     cout << name << " attacks " << target.getName() << " for " << damage << " damage!" << endl;
 }
 
-// Конкретные классы монстров
 class Goblin : public Monster {
 public:
     Goblin() : Monster("Goblin", 30, 8, 3) {}
@@ -262,7 +252,6 @@ public:
     Item getLoot() const override { return Item("Bone", "material", 8); }
 };
 
-// Класс игры
 class Game {
     unique_ptr<Character> player;
     vector<unique_ptr<Monster>> monsters;
